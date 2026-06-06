@@ -1,42 +1,46 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammed%20Abbas%20VM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20MERN%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Real-Time%20Systems&descAlignY=60&descSize=17&descColor=a78bfa" width="100%"/>
+</div>
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammed%20Abbas%20VM&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Real-Time%20Apps&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Abbas+%F0%9F%91%8B;MERN+Stack+Developer+%7C+Node.js+%2B+React.js;Building+AI-Powered+Full-Stack+Apps;Real-Time+Systems+with+Socket.io;Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+%F0%9F%9A%80;MERN+Stack+%7C+TypeScript+%7C+Socket.io;Integrating+AI+models+into+real+products+%F0%9F%A4%96;Clean+code%2C+sharp+architecture+%E2%9C%A8;Open+to+opportunities+%E2%80%94+let%27s+connect!+%F0%9F%91%8B" alt="Typing SVG" />
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abbas-543b74333)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abbas2123)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasakk398@gmail.com)&nbsp;![Kerala](https://img.shields.io/badge/📍-Kerala%2C%20India-7c3aed?style=for-the-badge)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--abbas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abbas)
-[![GitHub](https://img.shields.io/badge/GitHub-abbas2123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abbas2123)
-[![Email](https://img.shields.io/badge/Email-abbasakk398%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abbasakk398@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Kerala%2C%20India-00b4d8?style=flat-square)](https://maps.google.com/?q=Kerala,India)
+![Profile Views](https://komarev.com/ghpvc/?username=abbas2123&label=Profile+Views&color=7c3aed&style=flat-square)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👨‍💻 About Me
 
 ```javascript
 const abbas = {
-  name        : "Muhammed Abbas VM",
-  location    : "Kerala, India 🇮🇳",
-  education   : "MERN Stack Training @ Brototype, Kochi",
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js",
-                 "TypeScript", "Socket.io", "Python"],
-  currentlyLearning : ["Advanced TypeScript", "System Design",
-                        "DevOps & CI/CD"],
-  strongSuits : ["REST API Design", "JWT Auth", "Real-Time Apps",
-                 "AI Model Integration"],
-  funFact     : "I built an AI skin disease detector before learning DSA properly 😅",
-  motto       : () => "Clean code is not written — it's refactored into existence.",
-  openTo      : ["Full-Time Roles", "Internships", "Open Source"],
-  contact     : "abbasakk398@gmail.com"
-};
+  name         : "Muhammed Abbas VM",
+  location     : "📍 Kerala, India",
+  role         : "MERN Stack Developer",
+
+  stack: {
+    frontend   : ["React.js", "TypeScript", "Bootstrap"],
+    backend    : ["Node.js", "Express.js", "Socket.io"],
+    database   : ["MongoDB", "SQL"],
+    security   : ["JWT", "Sessions", "CSRF Protection"]
+  },
+  practising        : ["LeetCode", "HackerRank"],
+
+  openTo     : ["Full-Time", "Internship", "Freelance"],
+  contact    : "abbasakk398@gmail.com",
+
+  motto: () => "Clean code isn't written — it's refactored into existence."
+}
 ```
 
 <br clear="right"/>
@@ -45,112 +49,119 @@ const abbas = {
 
 ## 🛠️ Tech Stack
 
-### 💬 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Basic-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-Template-B4CA65?style=flat-square&logo=ejs&logoColor=black)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages**
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![SQL Databases](https://img.shields.io/badge/SQL%20Databases-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Frontend**
 
-### 🔐 Auth & Security
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Session Auth](https://img.shields.io/badge/Session%20Auth-FF6B6B?style=flat-square&logo=auth0&logoColor=white)
-![CSRF Protection](https://img.shields.io/badge/CSRF%20Protection-Shield-4CAF50?style=flat-square)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge)
 
-### 🧰 Tools & Concepts
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-Architecture-8E44AD?style=flat-square)
+**Backend & Real-Time**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![CSRF](https://img.shields.io/badge/CSRF%20Protection-%234CAF50.svg?style=for-the-badge)
+![Sessions](https://img.shields.io/badge/Session%20Auth-%23FF6B6B.svg?style=for-the-badge)
+
+**Tools & Testing**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🩺 AI-Based Skin Disease Detection System
+### 🩺 AI Skin Disease Detector
 
-</div>
+> MERN + Python AI pipeline for real-time skin disease classification from uploaded images.
 
-> A full-stack MERN application integrated with a Python-based AI model to detect skin diseases from uploaded images in real time.
+- 🤖 Python ML model integrated via REST API
+- 📡 Express.js handles image upload & inference
+- ⚡ React.js renders predictions instantly
+- 🔒 Secure image data handling
 
-| | |
-|---|---|
-| **Frontend** | React.js — Responsive, real-time prediction display |
-| **Backend** | Node.js + Express.js — REST APIs for image upload & inference |
-| **AI Layer** | Python ML model — Disease classification & result generation |
-| **Database** | MongoDB — Secure image metadata & result storage |
+**Stack:**&nbsp;
+`React` `Node.js` `Express` `MongoDB` `Python`
 
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+### 🏷️ NexaBid — Auction Platform
 
-<div align="center">
+> Live bidding platform with real-time updates, chat, and full auth security.
 
-### 🏷️ NexaBid — Real-Time Bidding Platform
+- ⚡ Socket.io for live bids & chat
+- 🔐 JWT + CSRF protection
+- 🧪 Jest + Cypress test coverage
+- 📦 RESTful bidding & user APIs
 
-</div>
+**Stack:**&nbsp;
+`Node.js` `Socket.io` `MongoDB` `JWT` `Jest` `Cypress`
 
-> A live auction platform with real-time bidding, live chat, user management, and robust security — built for reliability and performance.
-
-| | |
-|---|---|
-| **Real-Time** | Socket.io — Live bids & chat updates without page refresh |
-| **Auth** | JWT + CSRF Protection — Secure multi-role user system |
-| **Testing** | Jest + Cypress — End-to-end reliability coverage |
-| **APIs** | RESTful — Bidding, user management, and transactions |
-
-**Tech Stack:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
----
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 👤 User Management System
 
-</div>
+> Role-based admin panel with clean MVC architecture.
 
-> Role-based authentication & admin panel built on MVC architecture with full CRUD, block/unblock controls, and clean separation of concerns.
+- 🛡️ Admin: block/unblock, roles, CRUD
+- 🏗️ MVC architecture, scalable structure
 
-**Tech Stack:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square)
+**Stack:**&nbsp;
+`Node.js` `Express` `MongoDB` `EJS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Responsive Website Clones
+
+> Pixel-perfect responsive website clones.
+
+- 📱 Mobile-first, cross-device tested
+- 🎨 Clean UI, pixel-perfect layouts
+
+**Stack:**&nbsp;
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -158,76 +169,69 @@ const abbas = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abbas2123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas2123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbas2123&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas2123&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas2123&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas2123&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## 🧠 DSA & Problem Solving
 
 <div align="center">
 
-| Topic | Status |
-|---|---|
-| Arrays, Linked Lists, Stacks, Queues | ✅ Strong |
-| Trees & Hash Tables | ✅ Strong |
-| Searching & Sorting Algorithms | ✅ Solid |
-| Recursion, Divide & Conquer, Hashing | ✅ Solid |
-| Time & Space Complexity (Big-O) | ✅ Good Understanding |
-| LeetCode & HackerRank Practice | 🔄 Active |
+[![LeetCode](https://img.shields.io/badge/LeetCode-Regular%20Practitioner-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)&nbsp;[![HackerRank](https://img.shields.io/badge/HackerRank-Active-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
 
 </div>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+```
+✅  Arrays · Linked Lists · Stacks · Queues · Trees · Hash Tables
+✅  Searching · Sorting · Recursion · Divide & Conquer · Hashing
+✅  Time & Space Complexity (Big-O Analysis)
+🔄  Active daily practice on LeetCode & HackerRank
+```
 
 ---
 
 ## 🎓 Education
 
-| Degree / Program | Institution | Year |
-|---|---|---|
-| 🖥️ MERN Stack Development Training | Brototype, Kochi, Kerala | 2025 – Ongoing |
-| 📚 Higher Secondary Education | Board of Higher Secondary Examination, Kerala | Completed |
+| 🏛️ Institution | 📚 Program | 📅 |
+|:---|:---|:---|
+| **Brototype, Kochi, Kerala** | MERN Stack Development Training | 2025 – Present |
+| **Board of Higher Secondary Examination, Kerala** | Higher Secondary Education | Completed |
 
 ---
 
-## 🌐 Languages
-
-![English](https://img.shields.io/badge/English-Fluent-27AE60?style=flat-square)
-![Tamil](https://img.shields.io/badge/Tamil-Basic-3498DB?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Basic-E74C3C?style=flat-square)
-
----
-
-## 🤝 Let's Connect!
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<a href="https://linkedin.com/in/muhammad-abbas">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:abbasakk398@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/abbas2123">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
 
-<br/><br/>
+</div>
 
-> *"Clean code is not written — it's refactored into existence."*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<div align="center">
+
+### 📫 Let's Build Something Together
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-abbas-543b74333)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasakk398@gmail.com)
+
+<br/>
+
+*"Clean code is not written — it's refactored into existence."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>

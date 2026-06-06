@@ -58,8 +58,8 @@ const abbas = {
     cloud      : ["AWS ☁️", "Docker 🐳"]
   },
 
-  currentlyLearning : ["AWS", "Docker", "System Design"],
-  practising        : ["LeetCode 🧩", "HackerRank 🏆"],
+  
+  practising        : ["LeetCode 🧩"],
 
   openTo     : ["Full-Time 💼", "Internship 🎓", "Freelance 🌐"],
   contact    : "abbasakk398@gmail.com",

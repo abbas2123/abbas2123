@@ -34,6 +34,8 @@ const abbas = {
     database   : ["MongoDB", "SQL"],
     security   : ["JWT", "Sessions", "CSRF Protection"]
   },
+
+  currentlyLearning : ["AWS", "Docker", "System Design"],
   practising        : ["LeetCode", "HackerRank"],
 
   openTo     : ["Full-Time", "Internship", "Freelance"],
@@ -93,6 +95,11 @@ const abbas = {
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -170,13 +177,17 @@ const abbas = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abbas2123&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas2123&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=abbas2123&theme=midnight-purple&hide_border=true&fire=DD2727" />
 
 </div>
 
 <div align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas2123&layout=compact&theme=midnight-purple&hide_border=true" />
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas2123&layout=donut&theme=midnight-purple&hide_border=true&langs_count=6" />
+
 </div>
+
+> ⚠️ If cards show "Error Fetching Resource" — these are free third-party services with rate limits. They usually load within a few seconds on refresh. You can also visit [github.com/abbas2123](https://github.com/abbas2123) directly.
 
 ---
 

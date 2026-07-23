@@ -51,7 +51,7 @@ const abbas = {
 
   stack: {
     languages  : ["JavaScript (ES6+)", "TypeScript", "Python", "SQL"],
-    frontend   : ["React.js", "Bootstrap", "EJS", "jQuery"],
+    frontend   : ["React.js","React Native.js", "Bootstrap", "EJS", "jQuery"],
     backend    : ["Node.js", "Express.js", "REST APIs", "Socket.io"],
     database   : ["MongoDB", "Mongoose", "SQL Databases"],
     security   : ["JWT Auth", "Session Auth", "CSRF Protection"],
